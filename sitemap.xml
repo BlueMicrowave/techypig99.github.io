@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://techypig99.github.io/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/credits/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/papaspizzeria/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/papasburgeria/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/papasbakeria/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/papascheeseria/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/papasfreezeria/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://techypig99.github.io/games/run/</loc>
+  <lastmod>2023-04-20T02:15:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
